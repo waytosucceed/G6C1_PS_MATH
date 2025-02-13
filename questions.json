@@ -1,0 +1,232 @@
+{
+  "heading": "Number sense and Numeration",
+  "topics": [
+    {
+      "heading": "Number sense and Numeration",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The place value of 4 in a number is 40,000. Which of the following could not be the number?",
+          "options": [
+            { "text": "46,732" },
+            { "text": "42,365" },
+            { "text": "14,873" },
+            { "text": "49,281" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 2,
+          "question": "If we swap the thousands place and tens place digits in 54,839, what will the new number be?",
+          "options": [
+            { "text": "58,439" },
+            { "text": "48,539" },
+            { "text": "59,843" },
+            { "text": "53,849" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 3,
+          "question": "Write the correct sign in the given circle.<br><img width='70%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "<" },
+            { "text": ">" },
+            { "text": "=" },
+            { "text": "NONE OF THESE" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Find the sum of the place value of 7 and the face value of 6 in 27,684.",
+          "options": [
+            { "text": "7,006" },
+            { "text": "7,600" },
+            { "text": "7,060" },
+            { "text": "70,006" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "A machine changes numbers based on these rules: <br><br>Adds 3 to the thousands place <br><br>Subtracts 2 from the hundreds place<br><br>Leaves other digits the same.<br><br> If the input is 45,783, what is the output?",
+          "options": [
+            { "text": "75,563" },
+            { "text": "48,583" },
+            { "text": "75,783" },
+            { "text": "48,783" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "A trickster asked: What is the sum of the greatest 4-digit number and the smallest 3-digit number?",
+          "options": [
+            { "text": "9,999" },
+            { "text": "10,098" },
+            { "text": "10,099" },
+            { "text": "10,000" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "A robot can only remember numbers ending in 00. If the actual price of a laptop is $34,765, what price will the robot remember?",
+          "options": [
+            { "text": "34,700" },
+            { "text": "35,000" },
+            { "text": "34,800" },
+            { "text": "34,760" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "The Magic Mirror only reflects numbers from greatest to least.<br><br> 72,569;  85,432;  90,321;  65,874<br><br> Which option is correct?",
+          "options": [
+            { "text": "90,321; 85,432; 72,569; 65,874" },
+            { "text": "72,569; 85,432; 90,321; 65,874" },
+            { "text": "65,874; 72,569; 85,432; 90,321" },
+            { "text": "85,432; 90,321; 72,569; 65,874" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "Which decimal number matches the words 'Three hundred twenty-five thousand and forty-seven hundredths'?",
+          "options": [
+            { "text": "325047.1" },
+            { "text": "325047.01" },
+            { "text": "325000.47" },
+            { "text": "325040.07" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Jack added 385 + 247 using breaking into parts. Which step is incorrect?<br><span style='text-align:start'>Step 1: (300+200) + (80+40) + (5+7) <br>Step 2: 500 + 120 + 12 <br>Step 3: 632</span>",
+          "options": [
+            { "text": "Step 1" },
+            { "text": "Step 2" },
+            { "text": "Step 3" },
+            { "text": "All steps are correct" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "Which decimal number matches the words 'Five hundred six thousand and eight hundred three thousandths'?",
+          "options": [
+            { "text": "5060.803" },
+            { "text": "5060.0803" },
+            { "text": "506000.803" },
+            { "text": "506000.0803" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "A school library has a total of 265 books after removing 48 damaged books. Then, a donation brings in 36 new books. How many books are in the library now?",
+          "options": [
+            { "text": "300" },
+            { "text": "253" },
+            { "text": "265" },
+            { "text": "301" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 13,
+          "question": "Which of the following correctly represents 0.706 in words?",
+          "options": [
+            { "text": "seven hundred six hundredths" },
+            { "text": "seven hundred six thousandths" },
+            { "text": "seven-six hundredths" },
+            { "text": "seven hundred sixty thousandths" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Which number makes the statement true?<br><br> 0 + _ = 8941",
+          "options": [
+            { "text": "0" },
+            { "text": "7392" },
+            { "text": "1164" },
+            { "text": "8941" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "Find the missing number<br><br> (2100 + 320) + 180 = 2100 + (_ + 180)",
+          "options": [
+            { "text": "500" },
+            { "text": "180" },
+            { "text": "320" },
+            { "text": "2100" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following correctly represents 'Three and seven hundred thirty-five thousandths'?",
+          "options": [
+            { "text": "3.735" },
+            { "text": "3.753" },
+            { "text": "3.0735" },
+            { "text": "3.73" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "Emma has 320 books on one shelf and 215 books on another shelf. She is thinking of donating 30 books to the school library. Later, she buys 95 more books. How many books does she now have in total?",
+          "options": [
+            { "text": "600" },
+            { "text": "695" },
+            { "text": "630" },
+            { "text": "695" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "A school picnic had 560 students and 240 teachers. 30 volunteers also attended, but they were staff, not students or teachers. How many students and teachers were at the picnic?",
+          "options": [
+            { "text": "800" },
+            { "text": "770" },
+            { "text": "890" },
+            { "text": "750" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "A stadium has 13,500 fans in the main stands, 7,200 fans in the VIP section, and 4,300 empty seats. How many fans are in the stadium?",
+          "options": [
+            { "text": "25,000" },
+            { "text": "20,700" },
+            { "text": "18,800" },
+            { "text": "21,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "A supermarket sells 780 cartons of milk, 640 cartons of juice, and 120 cartons of expired products that were thrown away. How many cartons of milk and juice were sold?",
+          "options": [
+            { "text": "1,540" },
+            { "text": "1,420" },
+            { "text": "1,300" },
+            { "text": "1,200" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    }
+  ]
+}
